@@ -1291,12 +1291,12 @@ a {
     margin-bottom: 3rem;
   }
 
-  /* Mobile Horizontal Category Pills */
+  /* Mobile Wrapped Category Pills */
   .menu-controls .categories-wrapper {
-    margin: 0 -1.25rem;
-    padding: 0 1.25rem;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    margin: 0;
+    padding: 0;
+    overflow-x: visible;
+    width: 100%;
   }
 
   .menu-controls .categories-wrapper::-webkit-scrollbar {
@@ -1304,11 +1304,11 @@ a {
   }
 
   .menu-controls .categories-container {
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    width: max-content;
-    padding-bottom: 0.5rem;
-    gap: 0.4rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 0;
+    gap: 0.5rem;
   }
 
   .btn-category {
