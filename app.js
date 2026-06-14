@@ -733,27 +733,4 @@ document.addEventListener("DOMContentLoaded", () => {
       revealObserver.observe(el);
     });
   }
-
-  // 8. PROMO POPUP MODAL LOGIC
-  const promoModal = document.getElementById("promo-modal");
-  const promoClose = document.getElementById("promo-close");
-  
-  if (promoModal && promoClose) {
-    // Show modal after 1.2s delay
-    setTimeout(() => {
-      promoModal.classList.add("active");
-    }, 1200);
-
-    // Close on click of 'X' button
-    promoClose.addEventListener("click", () => {
-      promoModal.classList.remove("active");
-    });
-
-    // Close on click outside the content container
-    promoModal.addEventListener("click", (e) => {
-      if (e.target === promoModal) {
-        promoModal.classList.remove("active");
-      }
-    });
-  }
 });
