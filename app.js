@@ -122,10 +122,10 @@ const MENU_ITEMS = [
     tags: []
   },
   {
-    name: "Huevos Rotos con Jamón Serrano",
+    name: "Huevos Rotos con Jamón Ibérico",
     price: "11,50 €",
     category: "para empezar",
-    description: "Base de patatas fritas panadera, huevos fritos de corral y jamón serrano de calidad.",
+    description: "Base de patatas fritas panadera, huevos fritos de corral y jamón ibérico de calidad.",
     image: "images/gallery-huevos-rotos.jpg",
     tags: ["Clásico"]
   },
@@ -303,7 +303,7 @@ const MENU_ITEMS = [
   },
   {
     name: "Bocadillo de Tortilla Francesa",
-    price: "5,00 €",
+    price: "6,00 €",
     category: "bocadillos",
     description: "Sencillo y delicioso bocadillo de tortilla francesa de dos huevos.",
     tags: []
