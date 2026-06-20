@@ -62,7 +62,7 @@ const MENU_ITEMS = [
     price: "12,50 €",
     category: "para empezar",
     description: "Croquetas gourmet elaboradas con auténtico jamón ibérico seleccionado.",
-    image: "images/gallery-croquetas.jpg",
+    image: "images/gallery-croquetas-ibericas.jpg",
     tags: []
   },
   {
