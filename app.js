@@ -70,7 +70,7 @@ const MENU_ITEMS = [
     price: "8,50 €",
     category: "para empezar",
     description: "Palitos de masa fina crujiente rellenos de abundante queso blanco fundido.",
-    image: "images/gallery-tequenos.jpg",
+    image: "images/gallery-tequenos-queso.jpg",
     tags: []
   },
   {
