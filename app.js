@@ -6,6 +6,7 @@ const MENU_ITEMS = [
     price: "9,70 €",
     category: "para empezar",
     description: "Tiras de pollo crujientes.",
+    image: "images/gallery-tiras-pollo.jpg",
     tags: [],
     note: "patatas + lechuga"
   },
