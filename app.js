@@ -377,6 +377,7 @@ const MENU_ITEMS = [
     price: "6,60 €",
     category: "sandwiches",
     description: "Mezcla de atún claro desmigado, lechuga, tomate y mayonesa suave.",
+    image: "images/gallery-sand-atun.jpg",
     tags: []
   },
   {
