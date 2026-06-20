@@ -237,11 +237,11 @@ const MENU_ITEMS = [
 
   // PLATOS COMBINADOS
   {
-    name: "Pepito de ternera + ensalada + patatas",
+    name: "Filete de ternera + ensalada + patatas",
     price: "11,50 €",
     category: "platos combinados",
-    description: "Bistec de ternera a la plancha acompañado de patatas fritas y ensalada mixta de la casa.",
-    image: "images/gallery-pepito-plato.jpg",
+    description: "Filete de ternera a la plancha acompañado de patatas fritas y ensalada mixta de la casa.",
+    image: "images/gallery-filete-plato.jpg",
     tags: []
   },
   {
