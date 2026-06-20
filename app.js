@@ -322,6 +322,7 @@ const MENU_ITEMS = [
     price: "5,50 €",
     category: "bocadillos",
     description: "Bocadillo caliente de bacon ahumado crujiente a la plancha.",
+    image: "images/gallery-bocadillo-bacon.jpg",
     tags: []
   },
   {
